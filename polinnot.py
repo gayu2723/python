@@ -1,0 +1,12 @@
+n=int(input())
+rev,r,n=0
+m=n
+while(n<=1000):
+  m==n
+  r=n%10
+  rev=rev+10*r
+  n=n/10
+if(rev==m):
+  print("polindrome"):
+else:
+  print("not")
