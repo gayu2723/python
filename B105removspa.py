@@ -1,2 +1,4 @@
-l=str(input())
-print(l.replace(" ",""))
+remov=str(input())
+print(remov.replace(" ",""))
+
+
