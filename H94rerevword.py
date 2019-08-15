@@ -1,7 +1,7 @@
-def revword(ss):  
-    let= ss.split(" ") 
+def wordrev(wr):  
+    let= wr.split(" ") 
     sen = [s[::-1] for s in let] 
     word = " ".join(sen) 
     return word  
-ss = input() 
-print(revword(ss)) 
+wr = input() 
+print(wordrev(wr)) 
