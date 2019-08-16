@@ -1,0 +1,6 @@
+N=int(input())
+num=list(map(int,input().split()))
+minum=max(num)
+manum=min(num)
+diffnum=max(num)-min(num)
+print(diffnum)
