@@ -1,6 +1,7 @@
-m=int(input())
-count=0
-while(m>0):
-    count=count+1
-    m=m//10
-print(count)
+nnum=int(input())
+c=0
+while(nnum>0):
+    c=c+1
+    nnum=nnum//10
+print(c)
+
