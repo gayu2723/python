@@ -1,2 +1,5 @@
 n1=int(input())
-print(n1)
+while(n1<=1000):
+      print(n1)
+      break
+
