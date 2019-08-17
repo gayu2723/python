@@ -1,2 +1,2 @@
-n=int(input())
-print(n)
+n1=int(input())
+print(n1)
